@@ -1,0 +1,23 @@
+Acessar página inicial do website
+Realizar cadastro
+Acessar aba de celulares
+enquanto tempo de procura < 1min:
+    Procurar produto
+    se encontrar:
+        Clicar no produto
+        Acessar página com detalhes
+        Clicar no botão inserir no carrinho de compras
+        Clicar na aba carrinho de compras
+        Clicar no botão finalizar compras
+        se cartão de crédito estiver liberado:
+            Selecionar o método de pagamento por cartão de crédito
+           Inserir os dados do cartão de crédito
+           Cadastrar o cartão no site
+           Clicar no botão para concluir a compra
+           Checar o email para validar se a compra foi realizada
+        senao:
+       sair do site
+    senao:
+    sair do site
+senao
+sair do site
